@@ -1,0 +1,31 @@
+.text-1{
+    background-color: goldenrod;
+    height: 30px;
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+    padding: 2pc;
+}
+
+.tr-nav{
+    background-color: goldenrod;
+    text-align: center;
+    
+}
+
+.tr-nav2{
+    background-color: silver
+}
+
+
+.tabel-nav{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+td{
+    height: 40px;
+    width: 400px;
+} 
